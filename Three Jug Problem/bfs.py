@@ -1,4 +1,4 @@
-    	    # State Space Search #
+    	  	  # State Space Search #
 
 '''
 Three water jugs  -> (j1,j2,j3)
@@ -9,7 +9,7 @@ j2 ==>	j2 -> j3 , j2 -> j1
 j3 ==>	j3 -> j1 , j3 -> j2
 
 Capacity of three water jugs = ( 8, 5, 3)
-							-> (c1,c2,c3)
+			    -> (c1,c2,c3)
 '''
 
 capacity = (8,5,3)
